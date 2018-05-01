@@ -1,0 +1,23 @@
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quanlymypham.csprojResolveAssemblyReference.cache
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.Doanh_thu.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.hoadonban.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formHDN.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.Khách_hàng.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formMatHang.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formnhacc.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.nhân_viên.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.Formdangnhap.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.Properties.Resources.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.frmMain.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.thống_kê.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.timkiem.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.Tìm_kiếm_khách_hàng.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formtkNCC.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formdoipass.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quanlymypham.csproj.GenerateResource.cache
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quanlymypham.csproj.CoreCompileInputs.cache
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.exe
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.pdb
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.exe.config
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.exe
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.pdb

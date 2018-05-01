@@ -1,0 +1,107 @@
+c:\users\hai yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.exe.config
+c:\users\hai yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.exe
+c:\users\hai yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.pdb
+c:\users\hai yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csprojResolveAssemblyReference.cache
+c:\users\hai yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.Properties.Resources.resources
+c:\users\hai yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.GenerateResource.cache
+c:\users\hai yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.CoreCompileInputs.cache
+c:\users\hai yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.exe
+c:\users\hai yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.pdb
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.Formdangnhap.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.frmMain.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formdoipass.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formnhacc.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formtkNCC.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formMatHang.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formHDN.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formKH.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formDT.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formHDB.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formNhanvien.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formTK.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formTKMH.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.formTKKH.resources
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\EnvDTE.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\stdole.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\EnvDTE80.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\VSLangProj.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\VSLangProj80.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\VSLangProj2.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.exe.config
+C:\Users\Hai Yen\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.CopyComplete
